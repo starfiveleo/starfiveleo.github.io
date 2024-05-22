@@ -1,0 +1,34 @@
+Package: wave420l
+Version: 1.0-1-OK1
+Architecture: riscv64
+Maintainer: StarFive Debian
+Installed-Size: 463
+Depends: omx-il, libc6 (>= 2.34)
+Suggests: wave511, codaj12
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: libs
+Filename: pool/main/w/wave420l/wave420l_1.0-1-OK1_riscv64.deb
+Size: 214728
+SHA256: f68cf3a5ca285c74481f8c0329aec4c292629567e9c69f78aa42ba0f0cfec19f
+SHA1: 4aa0ae701aae616812528651c5b618234dbc8c6b
+MD5sum: 31bda957ead9598921dfdb5b53fffd36
+Description: VPU Encoder Library.
+
+Package: wave511
+Version: 1.0-1-OK1
+Architecture: riscv64
+Maintainer: StarFive Debian
+Installed-Size: 1436
+Depends: omx-il, libc6 (>= 2.34)
+Suggests: wave420l, codaj12
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: libs
+Filename: pool/main/w/wave511/wave511_1.0-1-OK1_riscv64.deb
+Size: 261796
+SHA256: 8dea89a7f051666bd40c068182e047b2557ddcb76b7d22f0388fd783c2712061
+SHA1: e09fe6c4d85beb3737d20d18e9c139ffdb97d3ce
+MD5sum: 405f9bf9545ea12457b581c2668bcd22
+Description: VPU Decoder Library.
+

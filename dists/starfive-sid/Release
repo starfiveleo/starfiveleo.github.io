@@ -1,0 +1,20 @@
+Origin: debian
+Label: starfive
+Suite: sid
+Codename: starfive-sid
+Date: Wed, 22 May 2024 03:17:47 UTC
+Architectures: riscv64
+Components: main
+Description: starfive local repository for debian
+MD5Sum:
+ b0b528a0eff68568dac26db2ad08f55a 1039 main/binary-riscv64/Packages
+ b85da5694817a3e443e9089e52492041 535 main/binary-riscv64/Packages.gz
+ 7b9d83bec251d2fc96f49d61fbb149f2 132 main/binary-riscv64/Release
+SHA1:
+ 75397185e1a9f16120be8229f8fe31c2eb8aca7e 1039 main/binary-riscv64/Packages
+ 194f127a7e1f8c769fa3606218d365faafd1ff29 535 main/binary-riscv64/Packages.gz
+ dd2c2216b2df7cf536b3d25a912798e1a2e4a844 132 main/binary-riscv64/Release
+SHA256:
+ e61ce7537d136a89e18afe7841daad2f740b635fb56c7c380a675dc662ad94ff 1039 main/binary-riscv64/Packages
+ 429ddcc4cfcc242251844a28e717a1b6e8c26d211e8ed8b4c77545dabf77952f 535 main/binary-riscv64/Packages.gz
+ 18dd178543bc392cd94b9ce2759664312673d54748534ebaf0578132e8e6409b 132 main/binary-riscv64/Release

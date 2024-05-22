@@ -1,0 +1,6 @@
+Archive: sid
+Component: main
+Origin: debian
+Label: starfive
+Architecture: riscv64
+Description: starfive local repository for debian

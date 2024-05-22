@@ -1,0 +1,10 @@
+Origin: debian
+Suite: sid
+Label: starfive 
+Codename: starfive-sid
+Architectures: riscv64
+Components: main
+Description: starfive local repository for debian 
+Log: starfive-sid.log
+
+
